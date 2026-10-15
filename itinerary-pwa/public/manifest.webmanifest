@@ -1,0 +1,13 @@
+{
+  "name": "Daymark — Daily Itinerary",
+  "short_name": "Daymark",
+  "description": "Your daily plans, in focus.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#132b2a",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
